@@ -1,4 +1,4 @@
-# Alibaba.ir Ticket Availability Checker
+# Alibaba Ticket Availability Checker
 
 A Selenium-based automation tool that checks ticket availability and pricing pages for flights, trains, and buses on Alibaba.ir (a major Iranian travel booking platform), built as a practical web scraping exercise for handling dynamic, JavaScript-rendered websites.
 
